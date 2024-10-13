@@ -1,9 +1,9 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/東森新聞.png" group-title="台灣",東森新聞
+#EXTINF:-1 tvg-name=東森新聞" tvg-logo="https://live.fanmingming.com/tv/東森新聞.png" group-title="台灣",東森新聞
 http://37.27.111.214:8080/live/20/hls.m3u8
 
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/中天新聞.png" group-title="台灣",中天新聞
+#EXTINF:-1 tvg-name="中天新聞" tvg-logo="https://live.fanmingming.com/tv/中天新聞.png" group-title="台灣",中天新聞
 hhttp://211.72.65.236:8541/.m3u8
 
-#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/TVB.png" group-title="香港",TVB
+#EXTINF:-1 tvg-name="TVB" tvg-logo="https://live.fanmingming.com/tv/TVB.png" group-title="香港",TVB
 http://37.27.111.214:8080/live/23/hls.m3u8
