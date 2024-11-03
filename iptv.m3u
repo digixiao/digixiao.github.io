@@ -7,3 +7,6 @@ hhttp://211.72.65.236:8541/.m3u8
 
 #EXTINF:-1 tvg-name="TVB" group-title="香港",TVB
 http://37.27.111.214:8080/live/23/hls.m3u8
+
+#EXTINF:-1 tvg-name="cbsnews" group-title="美国",cbsnews
+http://50.7.234.10:8278/cbsn_glo/playlist.m3u8
